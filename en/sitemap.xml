@@ -3,150 +3,150 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/en/categories/blog/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/categories/blog/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/categories/blog/"
+                href="https://oyakata-life.github.io/hugo-sample/categories/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/blog/"
+                href="https://oyakata-life.github.io/hugo-sample/en/categories/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/categories/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/categories/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/categories/"
+                href="https://oyakata-life.github.io/hugo-sample/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/"
+                href="https://oyakata-life.github.io/hugo-sample/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/posts/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/posts/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/posts/"
+                href="https://oyakata-life.github.io/hugo-sample/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/posts/"
+                href="https://oyakata-life.github.io/hugo-sample/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/"
+                href="https://oyakata-life.github.io/hugo-sample/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/"
+                href="https://oyakata-life.github.io/hugo-sample/en/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/posts/third/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/posts/third/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/posts/third/"
+                href="https://oyakata-life.github.io/hugo-sample/posts/third/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/posts/third/"
+                href="https://oyakata-life.github.io/hugo-sample/en/posts/third/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/about/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/about/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/about/"
+                href="https://oyakata-life.github.io/hugo-sample/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/about/"
+                href="https://oyakata-life.github.io/hugo-sample/en/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/posts/a/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/posts/a/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/posts/a/"
+                href="https://oyakata-life.github.io/hugo-sample/posts/a/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/posts/a/"
+                href="https://oyakata-life.github.io/hugo-sample/en/posts/a/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/posts/first/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/posts/first/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/posts/first/"
+                href="https://oyakata-life.github.io/hugo-sample/posts/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/posts/first/"
+                href="https://oyakata-life.github.io/hugo-sample/en/posts/first/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/series/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/series/"
+                href="https://oyakata-life.github.io/hugo-sample/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/series/"
+                href="https://oyakata-life.github.io/hugo-sample/en/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/en/tags/</loc>
+    <loc>https://oyakata-life.github.io/hugo-sample/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/tags/"
+                href="https://oyakata-life.github.io/hugo-sample/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/tags/"
+                href="https://oyakata-life.github.io/hugo-sample/en/tags/"
                 />
   </url>
   
