@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サンプルページ</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on サンプルページ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>三回目の投稿</title>
+      <link>http://www.example.com/posts/third/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/third/</guid>
+      <description>三回目だよ。</description>
+    </item>
+    
+    <item>
+      <title>自己紹介</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>名前 中澤　正通
+資格    取得年月 名称     H12.8 普通自動車第一種運転免許   H20.6? 普通自動二輪車免許   H20.7 大型自動二輪車免許    </description>
+    </item>
+    
+    <item>
+      <title>２回目の投稿</title>
+      <link>http://www.example.com/posts/a/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/a/</guid>
+      <description>２回目の投稿です。</description>
+    </item>
+    
+    <item>
+      <title>最初の投稿</title>
+      <link>http://www.example.com/posts/first/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/first/</guid>
+      <description>最初の投稿です。</description>
+    </item>
+    
+  </channel>
+</rss>
